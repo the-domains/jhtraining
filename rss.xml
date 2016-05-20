@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[jhtraining]]></title>
         <description><![CDATA[jhtraining]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jhtraining/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 01:47:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 01:47:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jhtraining/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Livestream's Mevo camera lets you edit video on the fly]]></title>
+            <description><![CDATA[<article><h1>Livestream's Mevo camera lets you edit video on the fly</h1><p>My first thought upon hearing about the camera, which was officially introduced at Facebook's F8 conference earlier this week, was: Who exactly is Livestream targeting here? Facebook Live video has boomed in a big way with people shooting on their phones, and lots of those users aren't going to shell out for a $399 external camera.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4466be094e86bad9c0e2fe4c5a74c3d32ef5c016.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2016/04/15/ivestream-mevo-hands-on/</link>
+            <guid isPermaLink="false">91ab3cc5-461d-4657-beeb-3e8ac80f998b</guid>
+            <pubDate>Fri, 20 May 2016 01:47:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google May Have Found a Way to Make the Real-World Web Work]]></title>
-            <description><![CDATA[<article><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f00415e118224ecabc9f288eafe337a9d94455.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88196b1c413bb7abd895b6f8113fc788d9746e08.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/04/google-beacon-security-eddystone/</link>
             <guid isPermaLink="false">01cf18b7-a86a-4bba-adf5-b4359b698d69</guid>
             <pubDate>Fri, 20 May 2016 01:47:30 GMT</pubDate>
