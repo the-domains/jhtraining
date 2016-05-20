@@ -1,0 +1,14 @@
+layout_spectrum: 0.09024859522469342
+typography_spectrum: 0.10102413734421134
+color:
+  brandStrength: 0.2925270216073841
+  lightness: 0.275996180716902
+  saturation: 0.10297625954262912
+  rhythmicContrast: 0.5584800653159618
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: jhtraining
